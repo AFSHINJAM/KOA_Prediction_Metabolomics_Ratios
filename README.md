@@ -2,6 +2,7 @@
 
 A Metabolomics-Driven Machine Learning Model for Early Prediction of Knee Structural Osteoarthritis Progression
 
-Contributors
-Dr. Afshin Jamshidi
-Dr. Johanne Martel-Pelletier
+## Contributors
+
+- Dr. Afshin Jamshidi
+- Dr. Johanne Martel-Pelletier
